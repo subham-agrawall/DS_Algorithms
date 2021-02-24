@@ -1,6 +1,11 @@
 # Multilayer Perceptron (MLP)
 
-Implementation of multilayer perceptron/neural network from scratch to understand and grasp basic concepts of Deep Learning. 
+Implementation of multilayer perceptron/neural network from scratch to understand and grasp basic concepts of Deep Learning.
+
+Requirements:
+1. numpy
+2. matplotlib
+3. scikit-learn
 
 Output plots:
 1. Generated dataset for classification 
